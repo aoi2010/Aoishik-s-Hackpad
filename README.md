@@ -1,2 +1,0 @@
-# Aoishik's Hackpad
-
