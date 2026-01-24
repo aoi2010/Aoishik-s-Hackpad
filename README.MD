@@ -1,7 +1,7 @@
 # Aoishik's Hackpad
 My first macropad project! Aoishik's Hackpad is a 6-key macropad designed for coding and music control and a sleek 3D-printed case.
 
-![image](CAD\Case.png)
+![image](CAD/Case.png)
 
 ### Inspiration
 
@@ -26,7 +26,7 @@ Others:
 
 Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
-![image](PCB\Schematics.png)    |  ![image](PCB\pcb_image.png)  | ![image](CAD\Separate\Top_Bottom_Sep.png)
+![image](PCB/Schematics.png)    |  ![image](PCB/pcb_image.png)  | ![image](CAD/Separate/Top_Bottom_Sep.png)
 
 
 
