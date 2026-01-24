@@ -966,7 +966,7 @@
 				)
 			)
 		)
-		(property "Value" "SK6812"
+		(property "Value" "SK6812MINI-E"
 			(at 0 3.25 0)
 			(layer "F.Fab")
 			(uuid "f6115c33-9e8b-4284-b543-954752616fbe")
@@ -1818,7 +1818,7 @@
 				)
 			)
 		)
-		(property "Value" "SK6812"
+		(property "Value" "SK6812MINI-E"
 			(at 0 3.25 0)
 			(layer "F.Fab")
 			(uuid "3c5d2746-d807-4b10-a063-038d840d0595")
