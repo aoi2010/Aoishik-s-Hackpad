@@ -15,7 +15,7 @@ Believe it or not, this was my first time using Fusion 360 and KiCad! I watched 
 
 BOM: 
 - 6x Cherry MX Switches
-- 2x SK6812 MINI Leds
+- 2x SK6812 MINI-E Leds
 - 1x XIAO RP2040
 - 6x Blank DSA Keycaps
 - 4x M3x16 Bolt
