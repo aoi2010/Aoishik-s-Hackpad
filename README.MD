@@ -17,7 +17,7 @@ BOM:
 - 6x Cherry MX Switches
 - 2x SK6812 MINI-E Leds
 - 1x XIAO RP2040
-- 6x Blank DSA Keycaps
+- 6x Blank DSA Keycaps(Blue Preffered)
 - 4x M3x16 Bolt
 - 4x M3 Heatset
 
