@@ -23,6 +23,8 @@ BOM:
 
 Others:
 - KMK Firmware
+- PCB Gerber File(PCB/PCB.zip)
+- Top and Bottom STL files for 3d Printing
 
 Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
