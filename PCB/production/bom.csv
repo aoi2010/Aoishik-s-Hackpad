@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2",MX_SK6812MINI-E_REV,2,SK6812MINI-E,
+"SW1, SW2, SW3, SW4, SW5, SW6",SW_Cherry_MX_1.00u_PCB,6,SW_Push,
+U1,XIAO-RP2040-DIP,1,XIAO-RP2040-DIP,
