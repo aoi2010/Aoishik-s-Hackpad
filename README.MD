@@ -17,12 +17,12 @@ BOM:
 - 6x Cherry MX Switches
 - 2x SK6812 MINI-E Leds
 - 1x XIAO RP2040
-- 6x Blank DSA Keycaps(Blue Preffered)
+- 6x Blank DSA Keycaps
 - 4x M3x16 Bolt
-- 4x M3 Heatset
+- 4x M3 Heatset Inserts
 
 Others:
-- KMK Firmware
+- ZMK Firmware(.uf2 file)
 - PCB Gerber File(PCB/PCB.zip)
 - Top and Bottom STL files for 3d Printing
 
