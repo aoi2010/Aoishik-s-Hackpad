@@ -1,11 +1,13 @@
 # Aoishik's Hackpad
-My first macropad project! Aoishik's Hackpad is a 6-key macropad designed for coding and music control and a sleek 3D-printed case.
+My first macropad project! Aoishik's Hackpad is a 6-key macropad designed for coding and music control and a sleek 3D-printed case. Demo Link: [Youtube Demo](https://youtu.be/Q0fAI8v2yJ8)
 
-![image](CAD/Case.png)
+Case at Light  |  Case at No Light (Glow in the Dark)
+:-------------------------:|:-------------------------:
+![Case at light](images/CasewKey.jpg)  |  ![Glow in the dark](images/GLOW.jpg)
 
 ### Inspiration
 
-I wanted to create a macropad that allowed me to code while listening to music simultaneously. I created a macropad using 6 switches, 1 rp2040, and 2 leds. 
+I wanted to create a macropad that allowed me to code while listening to music simultaneously. I created a macropad using 6 switches and 1 rp2040. 
 
 ### Challenges
 
@@ -15,7 +17,6 @@ Believe it or not, this was my first time using Fusion 360 and KiCad! I watched 
 
 BOM: 
 - 6x Cherry MX Switches
-- 2x SK6812 MINI-E Leds
 - 1x XIAO RP2040
 - 6x Blank DSA Keycaps
 - 4x M3x16 Bolt
@@ -29,6 +30,17 @@ Others:
 Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
 ![image](PCB/Schematics.png)    |  ![image](PCB/pcb_image.png)  | ![image](CAD/Separate/Top_Bottom_Sep.png)
+
+### Photos
+
+Case (Separated)     |  PCB & Keycaps
+:-------------------------:|:-------------------------:
+![Case separated](images/Case.jpg)  |  ![PCB with keycaps](images/PCB.jpg)
+
+With Keycaps         |  Without Keycaps (Switches)
+:-------------------------:|:-------------------------:
+![Case with keycaps](images/CasewKey.jpg)  |  ![Case without keycaps](images/CASEwoKEY.jpg)
+
 
 
 
